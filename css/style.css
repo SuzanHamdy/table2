@@ -1,0 +1,28 @@
+
+body{
+    background-color: rgb(249, 238, 238);
+}
+table{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 25px;
+   
+}
+table tr th , td{
+    padding: 5px;
+}
+table img{
+    border-radius: 50%;
+    box-shadow: 5px 5px 10px 10px rgb(50, 5, 5);
+    
+}
+table:hover img{
+    border-radius: 10%;
+}
+table h1{
+    font-size: 40px;
+    background: -webkit-linear-gradient(90deg ,rgb(35, 35, 199) , rgb(238, 37, 37));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+ }
+}
